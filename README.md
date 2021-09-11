@@ -14,7 +14,7 @@ Referências:
 <br>
 <br>
 
-# Conteúdo do curso
+## Conteúdo do curso
 
 - **Aula 01 : Spring e React no mercado**
 
@@ -41,3 +41,28 @@ Referências:
   - [Código-fonte desenvolvido](https://github.com/jeanbarcellos/estudo.devsuperior.projeto-sds4/tree/aula-03)
 
 - **Aula 04 : Dúvidas respondidas**
+
+<br>
+<br>
+
+## Anotações
+
+### **Aula 01**
+
+Criação dos projetos frontend (ReactJS) e backend (Java Spring)
+
+- Implantação do frontend no Netlify
+
+  - https://app.netlify.com
+  - https://dsvendas-jeanbarcellos.netlify.app/
+
+### **Aula 02**
+
+Desenvolvimento do backend usando Java Spring
+
+- Implantação do backend no Heroku
+
+  - https://www.heroku.com/
+  - https://jeanbarcellos-devsuperior-sds4.herokuapp.com/
+
+...
