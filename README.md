@@ -66,3 +66,14 @@ Desenvolvimento do backend usando Java Spring
   - https://jeanbarcellos-devsuperior-sds4.herokuapp.com/
 
 ...
+
+### **Aula 03**
+
+Integração do frontend com o backend.
+
+<br>
+<br>
+
+## 🚀 Projeto final
+
+Acesse o projeto final [neste link](https://djvendas.netlify.app/).
