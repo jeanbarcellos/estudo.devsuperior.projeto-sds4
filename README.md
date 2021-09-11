@@ -74,6 +74,6 @@ Integração do frontend com o backend.
 <br>
 <br>
 
-## 🚀 Projeto final
+## Projeto final
 
-Acesse o projeto final [neste link](https://djvendas.netlify.app/).
+Acesse o projeto final [neste link](https://dsvendas-jeanbarcellos.netlify.app).
