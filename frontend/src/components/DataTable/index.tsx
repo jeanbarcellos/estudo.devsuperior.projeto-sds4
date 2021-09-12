@@ -1,9 +1,8 @@
-import axios from 'axios'
 import Pagination from 'components/Pagination'
 import { useEffect, useState } from 'react'
 import { SalePage } from 'types/sales'
 import { formatLocalDate } from 'utils/format'
-import { BASE_URL } from 'utils/requests'
+import * as Api from 'api/sales'
 
 const DataTable = () => {
   const [activePage, setActivePage] = useState(0)
@@ -16,11 +15,9 @@ const DataTable = () => {
   })
 
   useEffect(() => {
-    axios
-      .get(`${BASE_URL}/sales?page=${activePage}&size=20&sort=date,desc`)
-      .then(response => {
-        setPage(response.data)
-      })
+    Api.getSales(activePage).then(response => {
+      setPage(response.data)
+    })
   }, [activePage])
 
   const changePage = (index: number) => {
