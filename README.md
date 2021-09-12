@@ -41,6 +41,10 @@ Referências:
   - [Código-fonte desenvolvido](https://github.com/jeanbarcellos/estudo.devsuperior.projeto-sds4/tree/aula-03)
 
 - **Aula 04 : Dúvidas respondidas**
+  
+  Vamos responder as dúvidas da galera sobre o evento e o bootcamp.
+
+  - [Aula](https://www.youtube.com/watch?v=yQLjMy3xKJc)
 
 <br>
 <br>
@@ -65,7 +69,6 @@ Desenvolvimento do backend usando Java Spring
   - https://www.heroku.com/
   - https://jeanbarcellos-devsuperior-sds4.herokuapp.com/
 
-...
 
 ### **Aula 03**
 
